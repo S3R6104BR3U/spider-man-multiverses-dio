@@ -55,11 +55,12 @@
     margin-top: 50px;
     margin-left: 0;
     margin-bottom: 30px;
+    height: 60px;
 }
 
 .s-wrapper .s-main-content__top .s-description {
     background-color: rgba(0, 0, 0, .7);
-    max-width: 50%;
+    max-width: 70%;
     padding: 20px;
     border-radius: 10px;
 }
