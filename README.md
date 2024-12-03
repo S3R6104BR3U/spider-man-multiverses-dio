@@ -1,10 +1,10 @@
-#Aranhaverso nos Cinemas 🎥🕸️
+ # Aranhaverso nos Cinemas 🎥🕸️
 Este projeto é uma página dedicada aos filmes do Homem-Aranha, retratando as eras de Tobey Maguire, Andrew Garfield e Tom Holland como o herói aracnídeo. 
 A proposta é explorar o Aranhaverso nos cinemas, celebrando os diferentes atores e histórias que deram vida ao personagem ao longo dos anos.
 
-##🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 HTML: Estruturação do conteúdo.
-##CSS: Estilização e layout da página.
+## CSS: Estilização e layout da página.
 JavaScript: Interatividade e dinamicidade.
 
 🎯 Objetivo do Projeto
